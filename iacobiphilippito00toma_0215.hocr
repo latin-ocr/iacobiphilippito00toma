@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./iacobiphilippito00toma_0215.png"; bbox 0 0 2081 3157; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 647 203 1684 297">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 647 203 1684 297">
+     <span class='ocr_line' id='line_1_1' title="bbox 647 203 1684 297; baseline 0.023 -27"><span class='ocrx_word' id='word_1_1' title='bbox 647 204 823 292; x_wconf 70' lang='lat' dir='ltr'><em>must.</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 846 203 961 271; x_wconf 73' lang='lat' dir='ltr'><em>Vir.</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 985 208 1169 297; x_wconf 59' lang='lat' dir='ltr'><em>Elbgia</em></span> <span class='ocrx_word' id='word_1_4' title='bbox 1549 242 1570 279; x_wconf 77' lang='lat'>1</span> <span class='ocrx_word' id='word_1_5' title='bbox 1590 239 1620 291; x_wconf 87' lang='lat'>9</span> <span class='ocrx_word' id='word_1_6' title='bbox 1638 211 1684 293; x_wconf 61' lang='grc' dir='ltr'>ἶς’</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 600 505 1246 565">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 600 505 1246 565">
+     <span class='ocr_line' id='line_1_2' title="bbox 600 505 1246 565; baseline 0.005 -3"><span class='ocrx_word' id='word_1_7' title='bbox 600 505 1246 565; x_wconf 82' lang='lat' dir='ltr'><strong>NVMISMA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 259 674 1612 748">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 259 674 1612 748">
+     <span class='ocr_line' id='line_1_3' title="bbox 259 674 1612 748; baseline 0.007 -10"><span class='ocrx_word' id='word_1_8' title='bbox 259 674 671 739; x_wconf 88' lang='lat' dir='ltr'>GVIDI</span> <span class='ocrx_word' id='word_1_9' title='bbox 762 676 1612 748; x_wconf 18' lang='lat' dir='ltr'>PANCIROLIQ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 419 828 1647 934">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 419 828 1647 952">
+     <span class='ocr_line' id='line_1_4' title="bbox 419 828 1647 934; baseline 0.011 -13"><span class='ocrx_word' id='word_1_10' title='bbox 419 828 1450 934; x_wconf 56' lang='lat' dir='ltr'>1.C.PRAESTANT1.SS&#39;1M1„,</span> <span class='ocrx_word' id='word_1_11' title='bbox 1515 919 1517 921; x_wconf 88' lang='lat'>.</span> <span class='ocrx_word' id='word_1_12' title='bbox 1644 851 1647 855; x_wconf 80' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 557 1284 1338 2049">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 557 1284 1338 2049">
+     <span class='ocr_line' id='line_1_5' title="bbox 557 1284 1338 2049; baseline 0 1108"><span class='ocrx_word' id='word_1_13' title='bbox 557 1284 1338 2049; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

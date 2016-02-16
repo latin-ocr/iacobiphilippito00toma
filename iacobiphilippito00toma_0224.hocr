@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./iacobiphilippito00toma_0224.png"; bbox 0 0 2081 3157; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 389 267 1390 357">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 389 267 1390 357">
+     <span class='ocr_line' id='line_1_1' title="bbox 389 267 1390 357; baseline 0.004 -29"><span class='ocrx_word' id='word_1_1' title='bbox 389 291 421 328; x_wconf 88' lang='lat'><em>2</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 433 288 513 331; x_wconf 68' lang='grc' dir='ltr'>οι</span> <span class='ocrx_word' id='word_1_3' title='bbox 847 271 946 328; x_wconf 67' lang='lat' dir='ltr'>Iac„</span> <span class='ocrx_word' id='word_1_4' title='bbox 966 267 1106 333; x_wconf 71' lang='lat' dir='ltr'><em>Phil.</em></span> <span class='ocrx_word' id='word_1_5' title='bbox 1131 276 1179 332; x_wconf 83' lang='lat' dir='ltr'><em>T</em></span> <span class='ocrx_word' id='word_1_6' title='bbox 1180 268 1390 357; x_wconf 70' lang='lat' dir='ltr'>Omafint&#39;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 385 560 1862 920">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 385 560 1862 899">
+     <span class='ocr_line' id='line_1_2' title="bbox 549 560 1684 641; baseline 0.003 -24"><span class='ocrx_word' id='word_1_7' title='bbox 549 593 627 641; x_wconf 54' lang='lat'><em>„</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 757 560 1409 641; x_wconf 24' lang='lat' dir='ltr'>‚NVM1SMA</span> <span class='ocrx_word' id='word_1_9' title='bbox 1679 618 1684 620; x_wconf 82' lang='grc'>,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 385 633 1862 773; baseline 0.012 -24"><span class='ocrx_word' id='word_1_10' title='bbox 385 633 928 759; x_wconf 72' lang='lat' dir='ltr'>ANGELI</span> <span class='ocrx_word' id='word_1_11' title='bbox 1024 634 1862 773; x_wconf 76' lang='lat' dir='ltr'>MATTHAEACCII</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 654 836 1557 920; baseline 0.002 -26.081"><span class='ocrx_word' id='word_1_12' title='bbox 654 839 734 899; x_wconf 90' lang='grc'>3.</span> <span class='ocrx_word' id='word_1_13' title='bbox 786 838 859 898; x_wconf 94' lang='grc'>(3.</span> <span class='ocrx_word' id='word_1_14' title='bbox 910 836 1557 920; x_wconf 72' lang='lat' dir='ltr'>CLAR1551M1</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 791 1175 1458 1842">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 791 1175 1458 1842">
+     <span class='ocr_line' id='line_1_5' title="bbox 791 1175 1458 1842; baseline 0 1315"><span class='ocrx_word' id='word_1_15' title='bbox 791 1175 1458 1842; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1533 2602 1781 2670">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1533 2602 1781 2670">
+     <span class='ocr_line' id='line_1_6' title="bbox 1533 2602 1781 2670; baseline -0.032 0"><span class='ocrx_word' id='word_1_16' title='bbox 1533 2602 1781 2670; x_wconf 71' lang='lat' dir='ltr'>AEMLJ</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
